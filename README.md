@@ -1,3 +1,4 @@
+<img src ="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 <h1 align="center">Hi 👋, I'm Maira Umer</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
